@@ -1,5 +1,7 @@
 # Pizza-Sale-Analysis_-Power-BI
 
+https://drive.google.com/drive/u/2/folders/1vnzIqF5Satudd99GeDCWiJGmlDcDAYQ9
+
 **Project Description:**
 Embark on a journey through the creation of a dynamic Pizza Sales Dashboard using Power BI. This hands-on project guides you from data import to insightful visualization, equipping you with essential skills in data analytics and business intelligence. Dive into real-world challenges in pizza sales analysis and gain the expertise needed to optimize operations and maximize revenue in the pizza industry.
 
